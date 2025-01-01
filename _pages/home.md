@@ -12,7 +12,6 @@ permalink: /
 - 医疗健康大数据
 - 生物医学人工智能
 - 工具与数据库开发
-
 <hr />
 
 # <font size="5">Recent News</font>
