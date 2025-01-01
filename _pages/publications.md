@@ -6,18 +6,18 @@ sitemap: false
 permalink: /publications/
 ---
 
-# <h4>项目经历	
+# <font size="5">项目经历</font>	
 [1].	福建医科大学高层次引进人才项目. 基于蛋白质组学的复杂疾病研究（XRCZX2024018），40万，2024.09-2029.09. **主持**.
 [2].	江苏省自然科学基金青年项目. Tau微管蛋白激酶2异常在非梗阻性无精子症中的作用与机制研究（BK20220316），20万元，2022.07-2025.06. **项目骨干**.
 <hr />
 
-# <h4>发明专利	
+# <font size="5">发明专利</font>	
 [1].	郭雪江，李妍，司徒成昊，**王兵**. 一种基于深度学习提高单细胞蛋白质组鉴定覆盖率的方法，ZL202210331187.8.
 [2].	郭雪江，李妍，司徒成昊，**王兵**. 蛋白质亚细胞定位的空间蛋白质组学深度学习预测方法，ZL202210757754.6.
 [3].	郭雪江，李妍，司徒成昊，**王兵**. 蛋白质亚细胞迁移的时空蛋白质组学深度学习预测方法，ZL202311738077.4.
 <hr />
 
-# <h4>科研成果 (#为第一作者，*为通讯作者)	
+# <font size="5">科研成果 (#为第一作者，*为通讯作者)</font>	
 - [1].**Wang B**#, Wang Y#, Chen Y#, Gao M, Ren J, Guo Y, Situ C, Qi Y, Zhu H, Li Y*, Guo X*. DeepSCP: utilizing deep learning to boost single-cell proteome coverage. ***Briefings in Bioinformatics***. 2022 Jul 18;23(4):bbac214. (SCI一区, JCR Q1, 2021IF=13.994，排名第一)
 - [2].**Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ***Briefings in Bioinformatics***. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8，排名第一)
 - [3].**Wang B**#, Zhang X, Xu C, Han X, Wang Y, Situ C, Li Y*, Guo X*. DeepSP: A Deep Learning Framework for Spatial Proteomics. ***Journal of Proteome Research***. 2023 Jul 7;22(7):2186-2198. (SCI二区, JCR Q1, 2022IF=4.4，排名第一)
