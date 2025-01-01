@@ -8,10 +8,10 @@ permalink: /PI/
 福建医科大学，讲师，研究生导师
 - **地点**: 福建福州
 - **单位**: 福建医科大学
-- **Google Scholar**: https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN
-- **Email**:  wangbing587@163.com
-- **GitHub**: https://github.com/wangbing587
-- **ORCID**: (https://orcid.org/0000-0003-0684-2789)
+- **Email**: [wangbing587@163.com](mailto:wangbing587@163.com)
+- **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
+- **[GitHub](https://github.com/wangbing587)**
+- **[ORCID](https://orcid.org/0000-0003-0684-2789)**
 <hr />
 
 # <font size="5">简介</font>
