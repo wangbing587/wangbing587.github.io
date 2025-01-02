@@ -1,5 +1,8 @@
 ---
-title: "王兵简介"
+title: ""王兵 - PI"
+layout: gridlay
+excerpt: "Wang Lab at Fujian Medical University."
+sitemap: false
 permalink: /PI/
 ---
 <img src="../images/PI/wangbing_guangzhou.jpg" class="img-responsive" width="100%" style="float: right" />
