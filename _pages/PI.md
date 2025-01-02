@@ -9,7 +9,7 @@ permalink: /PI/
 福建医科大学，讲师，研究生导师
 - <img src="../images/logo/location.jpg" width="1.5%">: **[福建福州](https://j.map.baidu.com/1f/2H)**
 - <img src="../images/logo/school.jpg" width="1.5%">: **[福建医科大学](https://www.fjmu.edu.cn)**
-- <img src="../images/logo/email.jpg" width="2%">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
+- <img src="../images/logo/email.jpg" width="1.8%">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
 - <img src="../images/logo/google.jpg" width="2.5%">: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
 - <img src="../images/logo/github.jpg" width="2.5%">: **[GitHub](https://github.com/wangbing587)**
 - <img src="../images/logo/ORCID.jpg" width="2%">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
