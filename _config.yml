@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Chao Zhang's Lab
+title: The Bing Wang's Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Chao Zhang's Lab.
+  Website of the Bing Wang's Lab.
 baseurl: ""
 url: ""
 
@@ -40,3 +40,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  
