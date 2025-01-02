@@ -1,8 +1,5 @@
 ---
 title: ""王兵 - PI"
-layout: gridlay
-excerpt: "Wang Lab at Fujian Medical University."
-sitemap: false
 permalink: /PI/
 ---
 
