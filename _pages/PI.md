@@ -7,12 +7,12 @@ permalink: /PI/
 
 # <font size="5">Bing Wang (王兵)</font>
 福建医科大学，讲师，研究生导师
-- <img src="../images/logo/location.jpg" width="1.2%">: **[福建福州](https://j.map.baidu.com/1f/2H)**
-- <img src="../images/logo/school.jpg" width="1.5%">: **[福建医科大学](https://www.fjmu.edu.cn)**
-- <img src="../images/logo/email.jpg" width="1.5%">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
-- <img src="../images/logo/google.jpg" width="2%">: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
-- <img src="../images/logo/github.jpg" width="2%">: **[GitHub](https://github.com/wangbing587)**
-- <img src="../images/logo/ORCID.jpg" width="1.7%">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
+- 地点: **[福建福州](https://j.map.baidu.com/1f/2H)**
+- 单位: **[福建医科大学](https://www.fjmu.edu.cn)**
+- 邮箱: **[wangbing587@163.com](mailto:wangbing587@163.com)**
+- 学术: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
+- 代码: **[GitHub](https://github.com/wangbing587)**
+- 编号: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
 <hr />
 
 # <font size="5">简介</font>
