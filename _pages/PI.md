@@ -1,5 +1,5 @@
 ---
-title: ""王兵 - PI"
+title: "王兵简介"
 permalink: /PI/
 ---
 
