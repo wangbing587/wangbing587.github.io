@@ -7,12 +7,12 @@ permalink: /PI/
 
 # <font size="5">Bing Wang (王兵)</font>
 福建医科大学，讲师，研究生导师
-- <img src="../images/PI/location.jpg">: **[福建福州](https://j.map.baidu.com/1f/2H)**
-- <img src="../images/PI/school.jpg">: **[福建医科大学](https://www.fjmu.edu.cn)**
-- <img src="../images/PI/email.jpg">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
-- <img src="../images/PI/google.jpg">: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
-- <img src="../images/PI/github.jpg">: **[GitHub](https://github.com/wangbing587)**
-- <img src="../images/PI/ORCID.jpg">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
+- <img src="../images/logo/location.jpg" style="width: 30px; height: 20px;">: **[福建福州](https://j.map.baidu.com/1f/2H)**
+- <img src="../images/logo/school.jpg" style="width: 30px; height: 20px;">: **[福建医科大学](https://www.fjmu.edu.cn)**
+- <img src="../images/logo/email.jpg" style="width: 30px; height: 20px;">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
+- <img src="../images/logo/google.jpg" style="width: 30px; height: 20px;">: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
+- <img src="../images/logo/github.jpg" style="width: 30px; height: 20px;">: **[GitHub](https://github.com/wangbing587)**
+- <img src="../images/logo/ORCID.jpg" style="width: 30px; height: 20px;">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
 <hr />
 
 # <font size="5">简介</font>
