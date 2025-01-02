@@ -5,9 +5,7 @@ excerpt: "Wang Lab at Fujian Medical University."
 sitemap: false
 permalink: /team/
 ---
-<h4>Research Theme</h4>
 
-<h4>Current Openings</h4>
 <p><font size=4>以下专业招生研究生，详情请通过 wangbing587@163.com 与我联系。</font></p>
 <hr />
 
