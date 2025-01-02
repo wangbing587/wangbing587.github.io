@@ -19,29 +19,29 @@ permalink: /publications/
 
 # <font size="5">科研成果 (#为第一作者，*为通讯作者)</font>	
 <hr />
-## 2024
-- **Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ***Briefings in Bioinformatics***. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8，排名第一)
+## <font size="3">2024</font>	
+- **Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ***Briefings in Bioinformatics***. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8, 排名第一)
 - Sun H#, Han L#, Guo Y#, An H#, **Wang B**#, Zhang X, Li J, Jiang Y, Wang Y, Sun G, Zhu S, Tang S, Ge J, Chen M, Guo X*, Wang Q*. The global phosphorylation landscape of mouse oocytes during meiotic maturation. ***The EMBO Journal*** 2024 Oct;43(20):4752-4785. (SCI一区, JCR Q1, 2023IF=9.4, 共一第五)
-- Zhang X#, Tu H#, Zhou X#, **Wang B**, Guo Y, Situ C, Qi Y, Li* Y, Guo X*. Quantitative Phosphoproteomic Profiling of Mouse Sperm Maturation in Epididymis Revealed Kinases Important for Sperm Motility. **Molecular & Cellular Proteomics***. 2024 Aug;23(8):100810. (SCI一区, JCR Q1, 2023IF=6.1, 排名第四)
+- Zhang X#, Tu H#, Zhou X#, **Wang B**, Guo Y, Situ C, Qi Y, Li* Y, Guo X*. Quantitative Phosphoproteomic Profiling of Mouse Sperm Maturation in Epididymis Revealed Kinases Important for Sperm Motility. ***Molecular & Cellular Proteomics***. 2024 Aug;23(8):100810. (SCI一区, JCR Q1, 2023IF=6.1, 排名第四)
 - Guo Y, Gao M, Liu X, Zhang H, Wang Y, Yan T, **Wang B**, Han X, Qi Y, Zhu H, Situ C, Li Y, Guo X. Single-Cell Multi-Omics Analysis of In Vitro Post-Ovulatory-Aged Oocytes Revealed Aging-Dependent Protein Degradation. **Molecular & Cellular Proteomics***. 2024 Nov 20;24(1):100882. (SCI一区, JCR Q1, 2023IF=6.1, 排名第四)
-- Hu Y#, Wang Y#, He Y#, Ye M, Yuan J, Ren C, Wang X, Wang S, Guo Y, Cao Q, Zhou S, **Wang B**, He A, Hu J, Guo X, Shu W*, Huo R*. Maternal KLF17 controls zygotic genome activation by acting as a messenger for RNA Pol II recruitment in mouse embryos. ***Developmental Cell***. 2024 Jan 31:S1534-5807(24)00032-7. (SCI一区, JCR Q1, 2022IF=10.7，排名第十二)
+- Hu Y#, Wang Y#, He Y#, Ye M, Yuan J, Ren C, Wang X, Wang S, Guo Y, Cao Q, Zhou S, **Wang B**, He A, Hu J, Guo X, Shu W*, Huo R*. Maternal KLF17 controls zygotic genome activation by acting as a messenger for RNA Pol II recruitment in mouse embryos. ***Developmental Cell***. 2024 Jan 31:S1534-5807(24)00032-7. (SCI一区, JCR Q1, 2022IF=10.7, 排名第十二)
 <hr />
 
-## 2023
+## <font size="3">2023</font>	
 - **Wang B**#, Zhang X, Xu C, Han X, Wang Y, Situ C, Li Y*, Guo X*. DeepSP: A Deep Learning Framework for Spatial Proteomics. ***Journal of Proteome Research***. 2023 Jul 7;22(7):2186-2198. (SCI二区, JCR Q1, 2022IF=4.4，共一第一)
-- Han X#, **Wang B**, Situ C, Qi Y, Zhu H*, Li Y*, Guo X*. scapGNN: A graph neural network-based framework for active pathway and gene module inference from single-cell multi-omics data. **PLoS Biology***. 2023 Nov 13;21(11):e3002369. (SCI一区, JCR Q1, 2022IF=9.8，排名第二)
+- Han X#, **Wang B**, Situ C, Qi Y, Zhu H*, Li Y*, Guo X*. scapGNN: A graph neural network-based framework for active pathway and gene module inference from single-cell multi-omics data. **PLoS Biology***. 2023 Nov 13;21(11):e3002369. (SCI一区, JCR Q1, 2022IF=9.8, 排名第二)
 - Li X#, Liao M, **Wang B**, Zan X, Huo Y, Liu Y, Bao Z, Xu P*, Liu W*. A drug repurposing method based on inhibition effect on gene regulatory network. ***Computational and Structural Biotechnology Journal***. 2023 Sep 9;21:4446-4455. (SCI二区, JCR Q1, 2022IF=6.0, 排名第三)
-- Yao Y#, Shi B, Zhang X, Wang X, Li S, Yao Y, Guo Y, Chen D, **Wang B**, Yuan Y, Sha J*, Guo X*. Germ cell-specific deletion of Pex3 reveals essential roles of PEX3-dependent peroxisomes in spermiogenesis. ***Journal of Biomedical Research***. 2023 Dec 8;38(1):24-36. (SCI四区, JCR Q2, 2022IF=2.3，排名第九)
+- Yao Y#, Shi B, Zhang X, Wang X, Li S, Yao Y, Guo Y, Chen D, **Wang B**, Yuan Y, Sha J*, Guo X*. Germ cell-specific deletion of Pex3 reveals essential roles of PEX3-dependent peroxisomes in spermiogenesis. ***Journal of Biomedical Research***. 2023 Dec 8;38(1):24-36. (SCI四区, JCR Q2, 2022IF=2.3, 排名第九)
 <hr />
 
-## 2022
+## <font size="3">2022</font>	
 - **Wang B**#, Wang Y#, Chen Y#, Gao M, Ren J, Guo Y, Situ C, Qi Y, Zhu H, Li Y*, Guo X*. DeepSCP: utilizing deep learning to boost single-cell proteome coverage. ***Briefings in Bioinformatics***. 2022 Jul 18;23(4):bbac214. (SCI一区, JCR Q1, 2021IF=13.994，排名第一)
-- Guo Y#, Cai L#, Liu X#, Ma L#, Zhang H#, **Wang B**, Qi Y, Liu J, Diao F*, Sha J*, Guo X*. Single-Cell Quantitative Proteomic Analysis of Human Oocyte Maturation Revealed High Heterogeneity in In Vitro-Matured Oocytes. **Molecular & Cellular Proteomics***. 2022 Aug;21(8):100267. (SCI一区, JCR Q1, 2021IF=7.381，排名第六)
+- Guo Y#, Cai L#, Liu X#, Ma L#, Zhang H#, **Wang B**, Qi Y, Liu J, Diao F*, Sha J*, Guo X*. Single-Cell Quantitative Proteomic Analysis of Human Oocyte Maturation Revealed High Heterogeneity in In Vitro-Matured Oocytes. **Molecular & Cellular Proteomics***. 2022 Aug;21(8):100267. (SCI一区, JCR Q1, 2021IF=7.381, 排名第六)
 - Li H#, Chen H#, Zhang X#, Qi Y#, **Wang B**, Cui Y, Ren J, Zhao Y, Chen Y, Zhu T, Wang Y, Yao L, Guo Y, Zhu H, Li Y*, Situ C*, Guo X*. Global phosphoproteomic analysis identified key kinases regulating male meiosis in mouse. **Cellular and Molecular Life Sciences***. 2022 Aug 5;79(8):467. (SCI一区, JCR Q1, 2021IF=9.207, 排名第五)
-- Cui C#, Qin H, Zhu X, Lu X, **Wang B**, Wang X, Wang J, Jiao J, Chu M, Wang C, Li M, Wang X, Wang D, Chen M*. Unsupervised machine learning reveals epicardial adipose tissue subtypes with distinct atrial fibrosis profiles in patients with persistent atrial fibrillation: A prospective 2-center cohort study. **Heart Rhythm***. 2022 Dec;19(12):2033-2041. (SCI二区, JCR Q1, 2021IF=7.381，排名第五)
+- Cui C#, Qin H, Zhu X, Lu X, **Wang B**, Wang X, Wang J, Jiao J, Chu M, Wang C, Li M, Wang X, Wang D, Chen M*. Unsupervised machine learning reveals epicardial adipose tissue subtypes with distinct atrial fibrosis profiles in patients with persistent atrial fibrillation: A prospective 2-center cohort study. **Heart Rhythm***. 2022 Dec;19(12):2033-2041. (SCI二区, JCR Q1, 2021IF=7.381, 排名第五)
 <hr />
 
-## 2021之前
-- Liu W#, **Wang B**, Fang G, Shi X, Xu P*. Study on the Differential Analysis of Alternative Splicing Based on the Median Value Jensen-Shannon Divergence. **Journal of Electronics & Information Technology***. 2020, 42(6):1392-1400. (EI，排名第二)
-- Xu P#, **Wang B**, Fang G, Shi X, Liu W*. Analysis of Breast Cancer Subtypes Prediction Based on Alternative Splicing Disorders. **Journal of Electronics & Information Technology***, 2020, 42(6): 1348-1354. (EI，排名第二)
+## <font size="3">2021之前</font>	
+- Liu W#, **Wang B**, Fang G, Shi X, Xu P*. Study on the Differential Analysis of Alternative Splicing Based on the Median Value Jensen-Shannon Divergence. **Journal of Electronics & Information Technology***. 2020, 42(6):1392-1400. (EI, 排名第二)
+- Xu P#, **Wang B**, Fang G, Shi X, Liu W*. Analysis of Breast Cancer Subtypes Prediction Based on Alternative Splicing Disorders. **Journal of Electronics & Information Technology***, 2020, 42(6): 1348-1354. (EI, 排名第二)
 <hr />
