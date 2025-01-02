@@ -5,6 +5,7 @@ excerpt: "Wang Lab at Fujian Medical University."
 sitemap: false
 permalink: /PI/
 ---
+
 <img src="../images/PI/wangbing_guangzhou.jpg" class="img-responsive" width="100%" style="float: right" />
 
 # <font size="5">Bing Wang (王兵)</font>
