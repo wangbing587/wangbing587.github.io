@@ -19,6 +19,7 @@ permalink: /publications/
 
 # <font size="5">科研成果 (#为第一作者，*为通讯作者)</font>	
 <hr />
+
 ## <font size="3">2024</font>	
 - **Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ___Briefings in Bioinformatics___. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8, 排名第一)
 - Sun H#, Han L#, Guo Y#, An H#, **Wang B**#, Zhang X, Li J, Jiang Y, Wang Y, Sun G, Zhu S, Tang S, Ge J, Chen M, Guo X*, Wang Q*. The global phosphorylation landscape of mouse oocytes during meiotic maturation. ___The EMBO Journal___ 2024 Oct;43(20):4752-4785. (SCI一区, JCR Q1, 2023IF=9.4, 共一第五)
