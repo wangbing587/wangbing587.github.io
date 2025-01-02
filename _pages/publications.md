@@ -5,6 +5,8 @@ excerpt: "Wang Lab at Fujian Medical University."
 sitemap: false
 permalink: /publications/
 ---
+* TOC
+{:toc}
 
 # <font size="5">项目经历</font>	
 - 福建医科大学高层次引进人才项目. 基于蛋白质组学的复杂疾病研究（XRCZX2024018），40万，2024.09-2029.09. **主持**.
