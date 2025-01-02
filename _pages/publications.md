@@ -5,8 +5,8 @@ excerpt: "Wang Lab at Fujian Medical University."
 sitemap: false
 permalink: /publications/
 ---
-[项目](#项目经历) 
-[专利](#发明专利) 
+[项目](#项目经历)  
+[专利](#发明专利)  
 [论文](#科研成果 (#为第一作者，*为通讯作者))  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021以前](#2021以前)  
 
 # <font size="5">项目经历</font>	
