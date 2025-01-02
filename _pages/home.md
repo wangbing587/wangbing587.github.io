@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # <font size="5">Introduction</font>
+
 欢迎来到福建医科大学医学技术与工程学院王兵课题组！目前，我们组主要致力于以下研究方向(Everything in Bioinformatics)：
 - 肿瘤生物信息学
 - 多组学数据分析
