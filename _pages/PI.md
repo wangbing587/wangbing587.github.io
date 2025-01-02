@@ -12,7 +12,7 @@ permalink: /PI/
 - <img src="../images/logo/email.jpg" width="2%">: **[wangbing587@163.com](mailto:wangbing587@163.com)**
 - <img src="../images/logo/google.jpg" width="2.5%">: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
 - <img src="../images/logo/github.jpg" width="2.5%">: **[GitHub](https://github.com/wangbing587)**
-- <img src="../images/logo/ORCID.jpg" width="1.5%">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
+- <img src="../images/logo/ORCID.jpg" width="2%">: **[ORCID](https://orcid.org/0000-0003-0684-2789)**
 <hr />
 
 # <font size="5">简介</font>
