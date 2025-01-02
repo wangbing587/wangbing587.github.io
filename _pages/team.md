@@ -8,11 +8,7 @@ permalink: /team/
 <h4>Research Theme</h4>
 
 <h4>Current Openings</h4>
-<p><font size=4>PhD or Postdoc positions are available. Please contact for details via wangbing587@163.com.</font></p>
-<hr />
-
-<h4>合作老师</h4>
-
+<p><font size=4>以下专业招生研究生，详情请通过 wangbing587@163.com 与我联系。</font></p>
 <hr />
 
 <h4>生物信息学学硕</h4>
