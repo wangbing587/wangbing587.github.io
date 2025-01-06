@@ -1,5 +1,5 @@
 ---
-title: "UNSAT - Pictures"
+title: "Wang Lab - Pictures"
 layout: piclay
 excerpt: "Wang Lab at Fujian Medical University."
 permalink: /pictures/
