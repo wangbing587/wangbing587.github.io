@@ -42,7 +42,7 @@ permalink: /publications/
 - **Wang B**#, Wang Y#, Chen Y#, Gao M, Ren J, Guo Y, Situ C, Qi Y, Zhu H, Li Y*, Guo X*. DeepSCP: utilizing deep learning to boost single-cell proteome coverage. ___Briefings in Bioinformatics___. 2022 Jul 18;23(4):bbac214. (SCI一区, JCR Q1, 2021IF=13.994, 共一第一)
 - Guo Y#, Cai L#, Liu X#, Ma L#, Zhang H#, **Wang B**, Qi Y, Liu J, Diao F*, Sha J*, Guo X*. Single-Cell Quantitative Proteomic Analysis of Human Oocyte Maturation Revealed High Heterogeneity in In Vitro-Matured Oocytes. ___Molecular & Cellular Proteomics___. 2022 Aug;21(8):100267. (SCI一区, JCR Q1, 2021IF=7.381, 排名第六)
 - Li H#, Chen H#, Zhang X#, Qi Y#, **Wang B**, Cui Y, Ren J, Zhao Y, Chen Y, Zhu T, Wang Y, Yao L, Guo Y, Zhu H, Li Y*, Situ C*, Guo X*. Global phosphoproteomic analysis identified key kinases regulating male meiosis in mouse. ___Cellular and Molecular Life Sciences___. 2022 Aug 5;79(8):467. (SCI一区, JCR Q1, 2021IF=9.207, 排名第五)
-- Cui C#, Qin H, Zhu X, Lu X, **Wang B**, Wang X, Wang J, Jiao J, Chu M, Wang C, Li M, Wang X, Wang D, Chen M*. Unsupervised machine learning reveals epicardial adipose tissue subtypes with distinct atrial fibrosis profiles in patients with persistent atrial fibrillation: A prospective 2-center cohort study. ___Heart Rhythm___. 2022 Dec;19(12):2033-2041. (SCI二区, JCR Q1, 2021IF=7.381, 排名第五)
+- Cui C#, Qin H#, Zhu X, Lu X, **Wang B**, Wang X, Wang J, Jiao J, Chu M, Wang C, Li M, Wang X, Wang D, Chen M*. Unsupervised machine learning reveals epicardial adipose tissue subtypes with distinct atrial fibrosis profiles in patients with persistent atrial fibrillation: A prospective 2-center cohort study. ___Heart Rhythm___. 2022 Dec;19(12):2033-2041. (SCI二区, JCR Q1, 2021IF=7.381, 排名第五)
 <hr />
 
 ## <font size="4">2021之前</font>	
