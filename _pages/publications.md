@@ -46,7 +46,7 @@ permalink: /publications/
 <hr />
 
 ## <font size="4">2021之前</font>	
-- 何鑫#, 张涛川, 黎易峰, 王兵. 基于 RF-DNN 的乳腺癌亚型诊断方法.  ___工业控制计算机___, 2021, 34(7): 80-81. (科技核心, 排名第四)
+- 何鑫#, 张涛川, 黎易峰, **王兵**. 基于 RF-DNN 的乳腺癌亚型诊断方法.  ___工业控制计算机___, 2021, 34(7): 80-81. (科技核心, 排名第四)
 - Liu W#, **Wang B**, Fang G, Shi X, Xu P*. Study on the Differential Analysis of Alternative Splicing Based on the Median Value Jensen-Shannon Divergence. ___Journal of Electronics & Information Technology___. 2020, 42(6):1392-1400. (EI, 排名第二)
 - Xu P#, **Wang B**, Fang G, Shi X, Liu W*. Analysis of Breast Cancer Subtypes Prediction Based on Alternative Splicing Disorders. ___Journal of Electronics & Information Technology___, 2020, 42(6): 1348-1354. (EI, 排名第二)
 <hr />
