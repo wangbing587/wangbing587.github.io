@@ -26,8 +26,8 @@ permalink: /publications/
 
 ## <font size="3">2025</font>	
 - Li M#, Song X#, Tu H#, Sun J#, Deng Y#, **Wang B**, Cai Y, Wang Y, Li B, Wang Y, Zhang X, Wei D, Yang X, Guo Y, Li X, Gu J, Ni J, Zhou Y, Gu Z, Xie Z*, Li Y*, Guo X*. A functionally tunable magnetic nanochains platform for N-glycoproteomic analysis of extracellular vesicles from ultratrace biofluids. ___Nat Commun___. 2025 Aug 16;16(1):7646.
-- Guo Y#, Gao M#, Liu X#, Zhang H#, Wang Y, Yan T, **Wang B**, Han X, Qi Y, Zhu H, Situ C*, Li Y*, Guo X*. Single-Cell Multi-Omics Analysis of In Vitro Post-Ovulatory-Aged Oocytes Revealed Aging-Dependent Protein Degradation. ___Molecular & Cellular Proteomics___. 2025 Jan;24(1):100882.
 - Li C#, Li J#, Du S#, Ma Y#, Guo Y#, Zhang X, **Wang B**, Zhu S, An H, Chen M, Guo J, Han L, Ge J, Qian X, Schedl T, Guo X#, Wang Q#. FTDC1/2, oocyte-specific cofactors of DNMT1 required for epigenetic regulation and embryonic development. ___Cell Death Differ___. 2025 Apr 28.
+- Guo Y#, Gao M#, Liu X#, Zhang H#, Wang Y, Yan T, **Wang B**, Han X, Qi Y, Zhu H, Situ C*, Li Y*, Guo X*. Single-Cell Multi-Omics Analysis of In Vitro Post-Ovulatory-Aged Oocytes Revealed Aging-Dependent Protein Degradation. ___Mol Cell Proteomics___. 2025 Jan;24(1):100882.
 <hr />
 
 
