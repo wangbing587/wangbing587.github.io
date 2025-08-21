@@ -10,7 +10,7 @@ permalink: /publications/
 [论文](#论文（第一作者为#，通讯作者为*）) || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021之前](#2021之前)  
 
 # <font size="5">项目</font>	
-- 福建省自然科学基金面上项目，2025J01842，基于单细胞激酶活性推断的药物重定位研究，2025-05至2028-04，10万元，**主持**.
+- 福建省自然科学基金面上项目，2025J01842，基于单细胞激酶活性推断的药物重定位研究，2025-05至2028-04，9万元，**主持**.
 - 福建医科大学高层次引进人才项目，XRCZX2024018，基于蛋白质组学的复杂疾病研究，2024.10-2029.09，40万， **主持**.
 - 江苏省自然科学基金青年项目，BK20220316，Tau微管蛋白激酶2异常在非梗阻性无精子症中的作用与机制研究，2022.07-2025.06，20万元， **项目骨干**.
 <hr />
@@ -23,6 +23,13 @@ permalink: /publications/
 
 # <font size="5">论文（第一作者为#，通讯作者为*）</font>	
 <hr />
+
+## <font size="3">2025</font>	
+- Li M#, Song X#, Tu H#, Sun J#, Deng Y#, **Wang B**, Cai Y, Wang Y, Li B, Wang Y, Zhang X, Wei D, Yang X, Guo Y, Li X, Gu J, Ni J, Zhou Y, Gu Z, Xie Z*, Li Y*, Guo X*. A functionally tunable magnetic nanochains platform for N-glycoproteomic analysis of extracellular vesicles from ultratrace biofluids. ___Nat Commun___. 2025 Aug 16;16(1):7646.
+- Guo Y#, Gao M#, Liu X#, Zhang H#, Wang Y, Yan T, **Wang B**, Han X, Qi Y, Zhu H, Situ C*, Li Y*, Guo X*. Single-Cell Multi-Omics Analysis of In Vitro Post-Ovulatory-Aged Oocytes Revealed Aging-Dependent Protein Degradation. ___Molecular & Cellular Proteomics___. 2025 Jan;24(1):100882.
+- Li C#, Li J#, Du S#, Ma Y#, Guo Y#, Zhang X, **Wang B**, Zhu S, An H, Chen M, Guo J, Han L, Ge J, Qian X, Schedl T, Guo X#, Wang Q#. FTDC1/2, oocyte-specific cofactors of DNMT1 required for epigenetic regulation and embryonic development. ___Cell Death Differ___. 2025 Apr 28.
+<hr />
+
 
 ## <font size="3">2024</font>	
 - **Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ___Briefings in Bioinformatics___. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8, 排名第一)
