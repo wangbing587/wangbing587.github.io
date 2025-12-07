@@ -10,18 +10,14 @@ permalink: /team/
 <hr />
 
 
-## <font size="5">生物信息学学硕</font>	
-## <font size="4">2022</font>	
-## 生物信息学学硕
-### 2024
-#### 刘诗云
+# <font size="5">生物信息学学硕</font>	
+## <font size="4">2024</font>	
+### <font size="3">刘诗云</font>	
 
 
-## 生物与医药专硕
-### 2024
-#### 林杞垒
+# <font size="5">生物与医药专硕</font>	
+## <font size="4">2024</font>	
+### <font size="3">林杞垒</font>	
 
 
-
-## 医学技术专硕
-
+# <font size="5">医学技术专硕</font>	
