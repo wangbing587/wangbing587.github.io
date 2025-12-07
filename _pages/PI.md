@@ -9,7 +9,6 @@ permalink: /PI/
 福建医科大学，讲师，研究生导师
 - 地点: **[福建福州](https://j.map.baidu.com/1f/2H)**
 - 单位: **[福建医科大学](https://www.fjmu.edu.cn)**
-- 
 - 邮箱: **[wangbing587@163.com](mailto:wangbing587@163.com)**
 - 学术: **[Google Scholar](https://scholar.google.com/citations?user=V4h6i_cAAAAJ&hl=zh-CN)**
 - 代码: **[GitHub](https://github.com/wangbing587)**
