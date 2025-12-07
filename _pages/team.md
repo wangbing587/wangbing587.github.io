@@ -10,6 +10,8 @@ permalink: /team/
 <hr />
 
 
+## <font size="5">生物信息学学硕</font>	
+## <font size="4">2022</font>	
 ## 生物信息学学硕
 ### 2024
 #### 刘诗云
