@@ -6,31 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<!-- 全覆盖版宽屏CSS（替换之前的样式） -->
-<style type="text/css">
-  /* 覆盖所有常见容器类名，优先级拉满 */
-  .container, .page-content, .site-content, .wrapper, .content, #main, .homelay {
-    max-width: 1400px !important; /* 核心：取消窄版限制 */
-    width: 95% !important;        /* 占屏幕95%宽度 */
-    margin: 0 auto !important;    /* 居中 */
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-  /* 覆盖body/HTML的最大宽度（部分模板限制了html/body） */
-  html, body {
-    max-width: 100% !important;
-    width: 100% !important;
-    overflow-x: hidden !important; /* 避免横向滚动 */
-  }
-  /* 移动端适配 */
-  @media (max-width: 768px) {
-    .container, .page-content, .site-content, .wrapper, .content, #main, .homelay {
-      width: 98% !important;
-      padding: 0 10px !important;
-    }
-  }
-</style>
-
 # <font size="5">Introduction</font>
 欢迎来到福建医科大学医学技术与工程学院王兵课题组！目前，我们组主要致力于以下研究方向(Everything in Bioinformatics)：  
 - 肿瘤生物信息学  
