@@ -25,4 +25,8 @@ permalink: /
 <hr />
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M5Sz3MLyY3KKGQ6KdEowL8YEvwYpA1zD3d4sXQq0a9A&cl=ffffff&w=a"></script>
+# <font size="5">Visitor Map</font>
+<!-- 插入Clustrmaps访问地图 -->
+<div style="text-align: center; margin: 20px 0;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M5Sz3MLyY3KKGQ6KdEowL8YEvwYpA1zD3d4sXQq0a9A&cl=ffffff&w=a"></script>
+</div>
