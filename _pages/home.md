@@ -23,3 +23,6 @@ permalink: /
 - 2024-09-02，王兵入职福建医科大学医学技术与工程学院生物信息学系教研岗位！
 - 2024-06-19，王兵博士从东南大学毕业！
 <hr />
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M5Sz3MLyY3KKGQ6KdEowL8YEvwYpA1zD3d4sXQq0a9A&cl=ffffff&w=a"></script>
