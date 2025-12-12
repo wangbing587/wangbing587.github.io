@@ -6,23 +6,28 @@ sitemap: false
 permalink: /
 ---
 
-<!-- 新增：自定义宽屏样式（放在最顶部） -->
+<!-- 全覆盖版宽屏CSS（替换之前的样式） -->
 <style type="text/css">
-  /* 覆盖页面容器的最大宽度，设为宽屏（1200px或100%） */
-  .container {
-    max-width: 1200px !important;  /* 核心：取消窄版限制，1200px适配大部分屏幕 */
-    width: 90% !important;          /* 占屏幕90%宽度，自适应 */
-    margin: 0 auto;                 /* 居中 */
+  /* 覆盖所有常见容器类名，优先级拉满 */
+  .container, .page-content, .site-content, .wrapper, .content, #main, .homelay {
+    max-width: 1400px !important; /* 核心：取消窄版限制 */
+    width: 95% !important;        /* 占屏幕95%宽度 */
+    margin: 0 auto !important;    /* 居中 */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
-  /* 可选：让内容区域更舒展，取消多余内边距 */
-  .row {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+  /* 覆盖body/HTML的最大宽度（部分模板限制了html/body） */
+  html, body {
+    max-width: 100% !important;
+    width: 100% !important;
+    overflow-x: hidden !important; /* 避免横向滚动 */
   }
-  /* 可选：调整文字行间距，宽屏更易读 */
-  body {
-    line-height: 1.6;
-    font-size: 16px;
+  /* 移动端适配 */
+  @media (max-width: 768px) {
+    .container, .page-content, .site-content, .wrapper, .content, #main, .homelay {
+      width: 98% !important;
+      padding: 0 10px !important;
+    }
   }
 </style>
 
