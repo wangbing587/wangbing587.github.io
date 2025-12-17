@@ -19,7 +19,7 @@ permalink: /
 <hr />
 
 # <font size="5">Recent News</font>
-- 2025-12.16，恭喜课题组论文DeepMLP: A proteomics-driven deep learning framework for identifying mis-localized proteins across pan-cancer被《Journal of Chemical Information and Modeling》（化学二区top）正式接收！
+- 2025-12-16，恭喜课题组论文DeepMLP: A proteomics-driven deep learning framework for identifying mis-localized proteins across pan-cancer被《Journal of Chemical Information and Modeling》（化学二区top）正式接收！
 - 2025-07-18，王兵福建省自然科学基金面上项目拟立项！
 - 2024-09-02，王兵入职福建医科大学医学技术与工程学院生物信息学系教研岗位！
 - 2024-06-19，王兵博士从东南大学毕业！
