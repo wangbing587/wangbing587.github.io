@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 [项目](#项目)  
 [专利](#专利)  
-[论文](#论文（第一作者为#，通讯作者为*）) || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021之前](#2021之前)  
+[论文](#论文（第一作者为#，通讯作者为*）) || [2026](#2026)|| [2025](#2025)|| [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021之前](#2021之前)  
 
 # <font size="5">项目</font>	
 - 福建省自然科学基金面上项目，2025J01842，基于单细胞激酶活性推断的药物重定位研究，2025-05至2028-04，9万元，**主持**.
@@ -22,13 +22,16 @@ permalink: /publications/
 <hr />
 
 # <font size="5">论文（第一作者为#，通讯作者为*）</font>
+## <font size="3">2026</font>	
+- **Wang B**#, Lin Q, He X, Liu S, Shen X*. DeepMLP: A Proteomics-Driven Deep Learning Framework for Identifying Mis-Localized Proteins across Pan-Cancer. ___J Chem Inf Model___. 2026 Jan 12;66(1):756-769.
+<hr />
+
 ## <font size="3">2025</font>	
-- Zhu T#, Zhu Y#, Jiang X#, Zhang X#, **Wang B**#, Chen Y, Zhao Y, Wang Y, Zhou Q, Han Z, Qi Y, Luo M, Tu H, Hao B, Gao M, Ren J, Zhou X, Zhang X, Chen X, Li H, Huang Q, Situ C, Guo Y, Zhu H, Li Y, Guo X. Stage-Resolved Phosphoproteomic Landscape of Mouse Spermiogenesis Reveals Key Kinase Signaling in Sperm Morphogenesis. ___Advanced Science___. 2025 Sep 3:e08538.
+- Zhu T#, Zhu Y#, Jiang X#, Zhang X#, **Wang B**#, Chen Y, Zhao Y, Wang Y, Zhou Q, Han Z, Qi Y, Luo M, Tu H, Hao B, Gao M, Ren J, Zhou X, Zhang X, Chen X, Li H, Huang Q, Situ C, Guo Y, Zhu H, Li Y, Guo X. Stage-Resolved Phosphoproteomic Landscape of Mouse Spermiogenesis Reveals Key Kinase Signaling in Sperm Morphogenesis. ___Advanced Science___. 2025 Nov;12(44):e08538.
 - Li M#, Song X#, Tu H#, Sun J#, Deng Y#, **Wang B**, Cai Y, Wang Y, Li B, Wang Y, Zhang X, Wei D, Yang X, Guo Y, Li X, Gu J, Ni J, Zhou Y, Gu Z, Xie Z*, Li Y*, Guo X*. A functionally tunable magnetic nanochains platform for N-glycoproteomic analysis of extracellular vesicles from ultratrace biofluids. ___Nat Commun___. 2025 Aug 16;16(1):7646.
 - Li C#, Li J#, Du S#, Ma Y#, Guo Y#, Zhang X, **Wang B**, Zhu S, An H, Chen M, Guo J, Han L, Ge J, Qian X, Schedl T, Guo X#, Wang Q#. FTDC1/2, oocyte-specific cofactors of DNMT1 required for epigenetic regulation and embryonic development. ___Cell Death Differ___. 2025 Apr 28.
 - Guo Y#, Gao M#, Liu X#, Zhang H#, Wang Y, Yan T, **Wang B**, Han X, Qi Y, Zhu H, Situ C*, Li Y*, Guo X*. Single-Cell Multi-Omics Analysis of In Vitro Post-Ovulatory-Aged Oocytes Revealed Aging-Dependent Protein Degradation. ___Mol Cell Proteomics___. 2025 Jan;24(1):100882.
 <hr />
-
 
 ## <font size="3">2024</font>	
 - **Wang B**#, Zhang X, Han X, Hao B, Li Y*, Guo X*. TransGCN: a semi-supervised graph convolution network-based framework to infer protein translocations in spatio-temporal proteomics. ___Briefings in Bioinformatics___. 2024 Jan 22;25(2):bbae055. (SCI一区, JCR Q1, 2023IF=6.8, 排名第一)
