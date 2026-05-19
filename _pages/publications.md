@@ -23,6 +23,7 @@ permalink: /publications/
 
 # <font size="5">论文（第一作者为#，通讯作者为*）</font>
 ## <font size="3">2026</font>	
+- Zhu H#, Li P#, **Wang B**#, Fu H, Guo Y, Han Z, Huang S, Xie Y, He J*, Zheng S*, Shen X*. Impact of the updated SOFA-2 score on sepsis diagnosis and prognosis: a retrospective multicenter cohort study. ___Crit Care___. 2026 May 6. 
 - **Wang B**#, Lin Q, He X, Liu S, Shen X*. DeepMLP: A Proteomics-Driven Deep Learning Framework for Identifying Mis-Localized Proteins across Pan-Cancer. ___J Chem Inf Model___. 2026 Jan 12;66(1):756-769.
 <hr />
 
